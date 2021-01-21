@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/css/main.6df9385b.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/js/main.a84007d4.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/js/runtime-main.99c1db1a.js",
+    "static/js/2.7eedb5ab.chunk.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/js/2.7eedb5ab.chunk.js",
+    "static/js/3.1b72f751.chunk.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/js/3.1b72f751.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/index.html",
+    "static/js/2.7eedb5ab.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/js/2.7eedb5ab.chunk.js.LICENSE.txt",
+    "static/media/wx_service.15c64e64.jpg": "https://cdn.jsdelivr.net/gh/zhanghao1818/wlz100@1.0.0/static/media/wx_service.15c64e64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99c1db1a.js",
+    "static/js/2.7eedb5ab.chunk.js",
+    "static/css/main.6df9385b.chunk.css",
+    "static/js/main.a84007d4.chunk.js"
+  ]
+}
